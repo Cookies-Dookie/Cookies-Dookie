@@ -1,10 +1,10 @@
 # MadookeHub
 MadookeHub Projects and Works.
-# 👋 Hello, I'm Cookies-Dookie!
+#  Hello, I'm Cookies-Dookie!
 
 Welcome to my GitHub profile! I'm passionate about game development and creative projects.
 
-## 🎮 Featured Project
+##  Featured Project
 
 **[Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)** - A collaborative building game available on itch.io
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about game development and creative
 **[BlockGO] - (A Web-Based Grade Records Management System Using Blockchain Technology)** - Currently Developing using Hyperledger Fabric blockchain Framework
 ---
 
-## 📌 Pinned Repositories
+##  Pinned Repositories
 
 Here are my featured projects:
 
@@ -27,7 +27,7 @@ Here are my featured projects:
 
 ---
 
-## 🛠️ Skills & Technologies (Tech-Stack)
+##  Skills & Technologies (Tech-Stack)
 
 - Game Development (Unity Framework, C#)
 - Blockchain Development
@@ -40,25 +40,20 @@ Here are my featured projects:
 
 ---
 
-## 🎯 Currently Working On
+##  Currently Working On
 
 I'm actively developing and maintaining my projects on GitHub. Check out my latest work!
 
 ---
 
-## 📊 GitHub Stats
-
-221 contributions in the last year
-
----
 
 ## Game Development Projects
 
-- 🎮 **itch.io**: [Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)
-- 🎮 **itch.io**: [TondoRift](https://grahambel.itch.io/tondo-rift)
+-  **itch.io**: [Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)
+-  **itch.io**: [TondoRift](https://grahambel.itch.io/tondo-rift)
 ---
 ## Contact
-- 💻 **GitHub**: [@Cookies-Dookie](https://github.com/Cookies-Dookie)
+-  **GitHub**: [@Cookies-Dookie](https://github.com/Cookies-Dookie)
 - **Gmail Account**: (pascualpatrick264@gmail.com)  
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.* 🚀
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.* 
