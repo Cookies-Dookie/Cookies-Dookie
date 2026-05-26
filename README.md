@@ -53,7 +53,7 @@ I'm actively developing and maintaining my projects on GitHub. Check out my late
 -  **itch.io**: [TondoRift](https://grahambel.itch.io/tondo-rift)
 ---
 ## Contact
--  **GitHub**: [@Cookies-Dookie](https://github.com/Cookies-Dookie)
-- **Gmail Account**: (pascualpatrick264@gmail.com)  
+- **Gmail Account**: (pascualpatrick264@gmail.com)
+- **LinkedIn Account**: (https://www.linkedin.com/in/patrick-pascual-8569813b5/)
 
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.* 
