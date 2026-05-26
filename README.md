@@ -1,6 +1,6 @@
 # MadookeHub
 MadookeHub Projects and Works.
-#  Hello, I'm Cookies-Dookie!
+#  Hello, I'm Patrick Pascual!
 
 Welcome to my GitHub profile! I'm passionate about game development and creative projects.
 
