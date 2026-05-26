@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about game development and creative
 
 **[SurveyAnalytics](https://aspnetfp.bsite.net/index.html)** - A SurveyAnalytics Website for Survey Management
 
-**[BlockGO](https://plv-blockgo.com/)** - (A Web-Based Grade Records Management System Using Blockchain Technology)** - Currently Developing using Hyperledger Fabric blockchain Framework
+**[BlockGO](https://plv-blockgo.com/)** - (A Web-Based Grade Records Management System Using Blockchain Technology using Hyper Ledger Fabric Framework For PLV Registrar)** - Currently Deployed using GKE 
 ---
 
 ##  Pinned Repositories
